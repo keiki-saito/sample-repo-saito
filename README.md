@@ -1,2 +1,3 @@
 # sample-repo-saito
-Git練習用
+
+更新
